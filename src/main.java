@@ -8,5 +8,9 @@ public class main {
         code_4_3 show_4_3 = new code_4_3();
         show_4_3.solution_4_3();
 
+        //backjoon 4_4 code
+        code_4_4 show_4_4 = new code_4_4();
+        show_4_4.solution_4_4();
+
     }
 }
