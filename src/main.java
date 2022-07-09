@@ -12,5 +12,8 @@ public class main {
         code_4_4 show_4_4 = new code_4_4();
         show_4_4.solution_4_4();
 
+        //backjoon 4_5 code
+        code_4_5 show_4_5 = new code_4_5();
+        show_4_5.solution_4_5();
     }
 }
